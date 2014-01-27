@@ -1,0 +1,2 @@
+http://23.253.66.230/
+This is the new server. It is configured and the grader can login using their username and password and they will find everything setup.
